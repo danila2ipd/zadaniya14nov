@@ -21,8 +21,6 @@ int main()
     cout << "Ввдите число: "; cin >> n;
 
     cout << SumDigits(n) << endl;
-
-    system("pause");
     return 0;
 }
 
